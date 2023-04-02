@@ -1,0 +1,16 @@
+p,body {
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+
+.boldItalic {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#blue {
+    color: blue;
+}
